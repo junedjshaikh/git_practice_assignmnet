@@ -7,11 +7,11 @@ for(let i=1;i<=n;i++)
 		count++
 	}
 }
-	if(count==1)
+	if(count==2)
 {
 	console.log("prime")
 }
 else
 {
-console.log("not prime"
+console.log("not prime");
 }
