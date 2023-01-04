@@ -1,8 +1,8 @@
-let a=aba
-let b=""
+let a="aba";
+let b="";
 for(let i=a.length;i=>0;i--)
 {
-	b=b+a[i]
+	b=b+a[i];
 }
 
 if(a==b)
